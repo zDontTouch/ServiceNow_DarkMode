@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "ServiceNow Theme Changer",
     "description": "Changes the colors from ServiceNow",
-    "version": "0.1",
+    "version": "0.5",
     "permissions": ["activeTab","scripting"],
     "icons":{
         "16": "images/icon_16.png",

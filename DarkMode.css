@@ -1,9 +1,38 @@
 :root{
---now-color_background--primary: 70,70,70 !important;
-/*--now-color--neutral-0: #FF0000;
---now-color--neutral-1: #FF0000;
---now-color--neutral-2: #FF0000;
---now-color--neutral-3: #FF0000;
---now-color--neutral-4: #FF0000;
---now-color--neutral-5: #FF0000;*/
+--now-color_background--primary: 90,90,90 !important;
+--now-color_background--secondary: 70,70,70 !important;
+--now-color_background--tertiary: 290,290,290 !important;
+--now-color_divider--primary: 0,0,0 !important; 
+--now-color_divider--secondary: 0,0,0 !important; 
+--now-color_divider--tertiary: 0,0,0 !important;
+--now-color_text--primary: 200,200,200 !important; 
+--now-color_text--secondary: 255,255,255 !important;
+--now-color_text--tertiary : 0,0,0 !important; 
+--now-color_border--primary: 0,255,255 !important;
+--now-color_border--secondary: 0,255,255 !important; 
+--now-color_border--tertiary: 0,255,255 !important; 
+--now-color_focus-ring: 0,0,0 !important; 
+--now-color_focus-ring_shadow: 0,0,0 !important;
+--now-color_grouped--yellow-0: 110,110,110 !important;
+--now-color_grouped--yellow-1: 130,130,130 !important;
+--now-text-link--primary--color: 184, 255, 203 !important;
+--now-color--link-1: 184, 255, 203 !important;
+--now-color--link-2: 0,255,255 !important;
+--now-button--bare_primary--color: 0,255,255 !important;
+--now-button--bare_secondary--color: 0,255,255 !important;
+--now-button--bare_tertiary--color: 0,255,255 !important;
+
+/*priority colored ribbon text colors*/
+--now-highlighted-value--tertiary_high--color: 0,0,0 !important;
+--now-highlighted-value--tertiary_purple--color: 0,0,0 !important;
+--now-highlighted-value--tertiary_positive--color: 0,0,0 !important;
+--now-highlighted-value--tertiary_critical--color: 0,0,0 !important;
+
+
+}
+
+.sn-pagination-pages .sn-pagination-btn {
+    padding: 0px 0.5rem !important;
+    width: auto !important;
+    color: RGB(0,0,0) !important;
 }
